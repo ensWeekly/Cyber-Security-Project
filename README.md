@@ -2,7 +2,6 @@
 
 **Securing the Digital World: Exploring Encryption and Cybersecurity**
 
-Created by Ashleigh Lavens · Emirates National Schools
 
 ## Publish on GitHub Pages
 
