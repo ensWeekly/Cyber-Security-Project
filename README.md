@@ -1,22 +1,3 @@
-# Grade 11 · Secure the Signal
-
-**Securing the Digital World: Exploring Encryption and Cybersecurity**
-
-
-## Publish on GitHub Pages
-
-1. Download and extract this ZIP on your computer. Do not upload the ZIP itself.
-2. Sign in to GitHub. Create a new public repository called `grade11-cybersecurity`. Choose **Add a README file** when creating it.
-3. In the repository, choose **Add file → Upload files**. Upload the extracted **index.html** directly to the repository root (the same level as README.md). The website is self-contained: only index.html is required.
-4. Select **Commit changes**.
-5. Go to **Settings → Pages**. Under Build and deployment, choose **Deploy from a branch**. Select **main** and **/(root)**, then **Save**.
-6. Wait for GitHub's deployment to finish. Refresh Settings → Pages and use **Visit site**. Copy the actual URL displayed there and share it with students.
-7. To update the site, upload a replacement index.html to the same repository and commit it. Do not create a second repository for routine updates.
-
-GitHub's instructions: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
-
-The download is ready to publish, but it has not been uploaded to your GitHub account. Students do not need GitHub accounts to use the published site.
-
 ## What students do
 
 Two lessons of 55 minutes. Individual project with a partner for testing. Choose one fictional school privacy case, manually encode/decode a message, build a four-stage secure communication design, run two tabletop tests, improve one rule, and create a privacy advice card.
